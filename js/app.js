@@ -63,7 +63,7 @@ var startSearch = function() {
         return;
     }
 
-    if (verifyConnection() == "offline")
+    if (verifyConnection() === "online")
         getResults(query);
     else
         alert( 'You must be connected to the internet' );
