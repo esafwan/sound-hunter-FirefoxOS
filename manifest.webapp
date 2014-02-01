@@ -23,11 +23,11 @@
   "locales": {
     "pt-br": {
       "name": "Sound Hunter",
-      "description": "Boilerplate Firefox OS app with example use cases to get started"
+      "description": "Increase speed for search, finding songs in less than 5 minutes"
     },
     "en": {
       "name": "Sound Hunter",
-      "description": "Boilerplate Firefox OS app with example use cases to get started"
+      "description": "Increase speed for search, finding songs in less than 5 minutes"
     }
   }
 }
