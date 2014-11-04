@@ -1,6 +1,6 @@
 # Sound Hunter
 
-(This is a fork I using to learn on. Please use the original one.)
+(This is a fork I'm using to learn on. Please use the original one.)
 
 It's an app to Firefox OS, which searches for music on multiple sources. The app is a child project of [Sound Hunter Website](http://raphamorim.com/sound-hunter/) that looks for music using speech recognition.
 
